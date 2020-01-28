@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Никита Макаров](https://up.htmlacademy.ru/javascript/19/user/701515).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Щеколдин] (https://htmlacademy.ru/profile/id861059)
 
 ---
 
